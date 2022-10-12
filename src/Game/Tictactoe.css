@@ -1,0 +1,8 @@
+table td{
+    border: 1px solid grey;
+    width: 100px;
+    height: 100px;
+}
+table{
+    margin: auto;
+}
